@@ -1,0 +1,12 @@
+{
+  "name": "nascent-ledbar",
+  "version": "1.0.0",
+  "description": "LedBar module API",
+  "repository":"https://github.com/nascentobjects/nascent-ledbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nascent Objects",
+  "license": "BSD"
+}

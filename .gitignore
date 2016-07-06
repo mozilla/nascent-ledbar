@@ -1,0 +1,8 @@
+#eclipse artifacts
+
+.settings
+
+.project
+
+#populated upon npm install
+/nascent/node_modules
